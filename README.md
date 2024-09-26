@@ -14,7 +14,7 @@ In my work, I want to show different styles and intertwine them, and then add so
 ![An image of Spider-man](images/Spider-man1.jpg)
 *Spider-man in a time machine*
 ![An image of Spider-man](images/Spider-man2.jpg)
-*Spider-Man jumps around the city*
+*Spider-Man jumps around*
 ![An image of Spider-man](images/Spider-man3.jpg)
 *Spider-Man in different universes*
 
